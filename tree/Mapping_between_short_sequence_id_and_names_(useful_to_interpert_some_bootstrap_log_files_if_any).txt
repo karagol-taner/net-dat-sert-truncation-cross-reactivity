@@ -1,0 +1,15 @@
+Human_DAT_Canonical_Q01959	S09
+Bacterial_LeuT_Outgroup_O67854	S10
+Mouse_SERT_Q60857	S13
+Mouse_DAT_Q61327	S14
+Human_SERT_Isoform2_P31645_2	S08
+Zebrafish_NET_F1R3H6	S11
+Human_NET_Isoform2_P23975_2	S05
+Human_NET_Isoform3_P23975_3	S06
+Human_SERT_Canonical_P31645	S07
+Zebrafish_DAT_Q90ZV1	S15
+Human_SERT_Isoform_J3QKP3_1TM	S03
+Human_NET_Isoform_H3BRS0_5TM	S02
+Human_NET_Canonical_P23975	S04
+Mouse_NET_O55192	S12
+Human_NET_Isoform_A0A804HLI4_6TM	S01

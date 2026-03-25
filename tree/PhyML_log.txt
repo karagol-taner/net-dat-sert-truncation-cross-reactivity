@@ -1,0 +1,332 @@
+
+
+. Command line: phyml --input align.phy --datatype aa --model LG -f m --multiple 1 --bootstrap 0 --pinv e --nclasses 4 --alpha e --search SPR -o tlr --r_seed 123456 --no_memory_check 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 align.phy
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Model name:					 LG
+        . Proportion of invariable sites:		 estimated
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 123456
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 564 patterns found (out of a total of 615 sites). 
+
+. 85 sites without polymorphism (13.82%).
+
+
+. Command line: phyml --input align.phy --datatype aa --model LG -f m --multiple 1 --bootstrap 0 --pinv e --nclasses 4 --alpha e --search SPR -o tlr --r_seed 123456 --no_memory_check 
+
+. Computing pairwise distances...
+
+. Command line: phyml --input align.phy --datatype aa --model LG -f m --multiple 1 --bootstrap 0 --pinv e --nclasses 4 --alpha e --search SPR -o tlr --r_seed 123456 --no_memory_check 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 align.phy
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Model name:					 LG
+        . Proportion of invariable sites:		 estimated
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 123456
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 564 patterns found (out of a total of 615 sites). 
+
+. 85 sites without polymorphism (13.82%).
+
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 align.phy
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Model name:					 LG
+        . Proportion of invariable sites:		 estimated
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 123456
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 564 patterns found (out of a total of 615 sites). 
+
+. 85 sites without polymorphism (13.82%).
+
+
+. Computing pairwise distances...
+
+. Command line: phyml --input align.phy --datatype aa --model LG -f m --multiple 1 --bootstrap 0 --pinv e --nclasses 4 --alpha e --search SPR -o tlr --r_seed 123456 --no_memory_check 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 align.phy
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Model name:					 LG
+        . Proportion of invariable sites:		 estimated
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 123456
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+
+. Computing pairwise distances...
+. 564 patterns found (out of a total of 615 sites). 
+
+. 85 sites without polymorphism (13.82%).
+
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. Note: taxon 'S07' is a duplicate of taxon 'S08'.
+
+. This analysis requires at least 18 MB of memory space.
+
+
+. Building BioNJ tree...
+
+. Note: taxon 'S07' is a duplicate of taxon 'S08'.
+
+. This analysis requires at least 18 MB of memory space.
+
+
+. Building BioNJ tree...
+
+. Note: taxon 'S07' is a duplicate of taxon 'S08'.
+
+. This analysis requires at least 18 MB of memory space.
+
+
+. Score of initial tree: -7058.91
+
+. Score of initial tree: -7058.91
+
+. Building BioNJ tree...
+
+. Note: taxon 'S07' is a duplicate of taxon 'S08'.
+
+. This analysis requires at least 18 MB of memory space.
+
+
+. Score of initial tree: -7058.91
+
+. Score of initial tree: -7058.91
+
+. Starting first round of SPRs...
+
+
+. Starting first round of SPRs...
+
+
+. Starting first round of SPRs...
+
+
+. Starting first round of SPRs...
+
+	       1s |   1 | lnL=     -6919.4 | depth=    2/   40 | improvements=   5 | delta_lnL=    7.1/ 1000.0  
+
+. Second round of optimization...
+
+	       1s |   1 | lnL=     -6919.4 | depth=    2/   40 | improvements=   5 | delta_lnL=    7.1/ 1000.0  
+
+. Second round of optimization...
+
+	       1s |   1 | lnL=     -6919.4 | depth=    2/   40 | improvements=   5 | delta_lnL=    7.1/ 1000.0  
+
+. Second round of optimization...
+
+	       1s |   1 | lnL=     -6919.4 | depth=    2/   40 | improvements=   5 | delta_lnL=    7.1/ 1000.0  
+
+. Second round of optimization...
+
+	       2s |   2 | lnL=     -6927.9 | depth=    1/   36 | improvements=   8 | delta_lnL=    0.0/ 1000.0  
+	       2s |   2 | lnL=     -6927.9 | depth=    1/   36 | improvements=   8 | delta_lnL=    0.0/ 1000.0  
+	       2s |   2 | lnL=     -6927.9 | depth=    1/   36 | improvements=   8 | delta_lnL=    0.0/ 1000.0  
+	       2s |   2 | lnL=     -6927.9 | depth=    1/   36 | improvements=   8 | delta_lnL=    0.0/ 1000.0  
+	       3s |   3 | lnL=     -6922.6 | depth=    2/   20 | improvements=   3 | delta_lnL=    4.4/ 1000.0  
+
+. Third round of optimization...
+
+	       3s |   3 | lnL=     -6922.6 | depth=    2/   20 | improvements=   3 | delta_lnL=    4.4/ 1000.0  
+
+. Third round of optimization...
+
+	       3s |   3 | lnL=     -6922.6 | depth=    2/   20 | improvements=   3 | delta_lnL=    4.4/ 1000.0  
+
+. Third round of optimization...
+
+	       3s |   3 | lnL=     -6922.6 | depth=    2/   20 | improvements=   3 | delta_lnL=    4.4/ 1000.0  
+
+. Third round of optimization...
+
+	       4s |   4 | lnL=     -6915.9 | depth=    1/   16 | improvements=   6 | delta_lnL=    0.0/ 1000.0 | triple moves=   5   +
+	       4s |   4 | lnL=     -6915.9 | depth=    1/   16 | improvements=   6 | delta_lnL=    0.0/ 1000.0 | triple moves=   5   +
+	       4s |   4 | lnL=     -6915.9 | depth=    1/   16 | improvements=   6 | delta_lnL=    0.0/ 1000.0 | triple moves=   5   +
+	       4s |   4 | lnL=     -6915.9 | depth=    1/   16 | improvements=   6 | delta_lnL=    0.0/ 1000.0 | triple moves=   5   +
+	       5s |   5 | lnL=     -6915.8 | depth=    0/   12 | improvements=   1 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+	       5s |   5 | lnL=     -6915.8 | depth=    0/   12 | improvements=   1 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+	       5s |   5 | lnL=     -6915.8 | depth=    0/   12 | improvements=   1 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+	       5s |   5 | lnL=     -6915.8 | depth=    0/   12 | improvements=   1 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+	       8s |   6 | lnL=     -6915.8 | depth=    0/    9 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+	       8s |   6 | lnL=     -6915.8 | depth=    0/    9 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+	       8s |   6 | lnL=     -6915.8 | depth=    0/    9 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+	       8s |   6 | lnL=     -6915.8 | depth=    0/    9 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+
+. Log likelihood of the current tree: -6915.612944109694581129588.
+
+. Printing the most likely tree in file 'align.phy_phyml_tree.txt'.
+
+. Time used 0h0m11s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+. Log likelihood of the current tree: -6915.612944109694581129588.
+
+. Printing the most likely tree in file 'align.phy_phyml_tree.txt'.
+
+. Time used 0h0m11s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+. Log likelihood of the current tree: -6915.612944109694581129588.
+
+. Printing the most likely tree in file 'align.phy_phyml_tree.txt'.
+
+. Time used 0h0m11s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+. Log likelihood of the current tree: -6915.612944109694581129588.
+
+. Printing the most likely tree in file 'align.phy_phyml_tree.txt'.
+
+. Time used 0h0m11s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
