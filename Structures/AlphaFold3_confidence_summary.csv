@@ -1,0 +1,18 @@
+model,assembly_type,pTM,ipTM,ranking_score,notes
+NET (P23975),monomer,0.87,,,top-ranked of 5 AF3 models
+DAT (Q01959),monomer,0.86,,,top-ranked of 5 AF3 models
+SERT (P31645),monomer,0.83,,,top-ranked of 5 AF3 models
+A0A804HLI4 isoform,monomer,0.61,,,top-ranked of 5 AF3 models
+NET P23975-3 isoform,monomer,0.86,,,top-ranked of 5 AF3 models
+NET-NET homodimer,complex,0.55,0.28,0.37,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+DAT-DAT homodimer,complex,0.54,0.27,0.38,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+SERT-SERT homodimer,complex,0.49,0.16,0.3,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+A0A804HLI4-A0A804HLI4,complex,0.22,0.16,0.32,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+NET-A0A804HLI4,complex,0.54,0.13,0.27,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+DAT-A0A804HLI4,complex,0.54,0.14,0.29,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+SERT-A0A804HLI4,complex,0.58,0.18,0.34,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+NET-DAT,complex,0.48,0.15,0.27,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+NET-SERT,complex,0.5,0.17,0.3,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+SERT-DAT,complex,0.55,0.27,0.4,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+SERT-J3QKP3,complex,0.71,0.63,0.75,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
+J3QKP3-J3QKP3,complex,0.32,0.21,0.49,top-ranked of 5 AF3 models; ipTM low in vacuum -> explicit-membrane MD relaxation
